@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 31%;
+}
+
+body{
+    margin: 25px;
+    padding: 25px;
+}
+h1, h5, p, img{
+    margin-bottom: 15px;
+}
+
+.btn{
+    background-color: red;
+    color: white;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin-top: 15px;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    text-transform: capitalize;
+    cursor:grab;
+}
